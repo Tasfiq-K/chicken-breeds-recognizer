@@ -1,4 +1,4 @@
-remote_theme: pages-themes/midnight@master
+remote_theme: CaiJimmy/hugo-theme-stack@master
 plugins: 
 - jekyll-remote-theme
 
