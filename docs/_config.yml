@@ -1,4 +1,4 @@
-remote_theme: CaiJimmy/hugo-theme-stack@master
+remote_theme: LeNPaul/Millennialk@gh-pages
 plugins: 
 - jekyll-remote-theme
 
