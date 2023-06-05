@@ -15,7 +15,7 @@ layout: page
         body: JSON.stringify({data: [reader.result]})});
     const json = await response.json();
     const label = json['data'][0]['label'];
-    result.innerHTML = `<br/> <img src = "${reader.result}" width="400" height="300"> <p>${label}</p>`;
+    result.innerHTML = `<br/> <img src = "${reader.result}" width="450" height="200"> <p>${label}</p>`;
     }
     function read(){
         const reader = new FileReader();
