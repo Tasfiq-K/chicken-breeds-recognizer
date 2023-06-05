@@ -1,4 +1,4 @@
-remote_theme: kitian616/jekyll-TeXt-theme@master
+remote_theme: mmistakes/so-simple-theme@master
 
 # plugins: 
 # - jekyll-remote-theme
