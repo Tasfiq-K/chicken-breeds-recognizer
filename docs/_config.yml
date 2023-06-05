@@ -1,4 +1,4 @@
-remote_theme: emilbaehr/automatic-app-landing-page@master
+remote_theme: CloudCannon/hydra-jekyll-template@main
 plugins: 
 - jekyll-remote-theme
 
