@@ -1,6 +1,6 @@
-remote_theme: Tasfiq-K/automatic-app-landing-page@master
-plugins: 
-- jekyll-remote-theme
+remote_theme: chesterhow/tale
+# plugins: 
+# - jekyll-remote-theme
 
 title: Chicken Breed Recognizer
 description: An image classification API that classifies 20 different types of chicken breeds around the world.
