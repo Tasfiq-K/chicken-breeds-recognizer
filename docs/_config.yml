@@ -1,7 +1,7 @@
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+remote_theme: pages-themes/cayman@v0.2.0
 
-plugins: 
-- jekyll-include-cache
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Chicken Breed Recognizer
 description: An image classification API that classifies 20 different types of chicken breeds around the world.
