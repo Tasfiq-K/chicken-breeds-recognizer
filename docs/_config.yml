@@ -8,7 +8,7 @@
 
 # author: 
 #   name: Md. Tasfiq Kamran
-remote_theme: CloudCannon/hydra-jekyll-template
+remote_theme: CloudCannon/aviator-jekyll-template
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
