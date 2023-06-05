@@ -32,6 +32,9 @@ Details can be found in **.ipynb** format in `notebooks/chicken_breed_recognizer
 
 # Training and Data Cleaning
 **Training**: Fine-tuned a resnet34 model 3 times, for (10+10+5) epochs and got up to ~**94%** accuracy. <br/>
+Here's the final Confusion Matrix.
+<img src="confusion_matrix.png" width="800" height="400">
+
 **Data Cleaning**: This part was the most tedious and took the highest time. Since the data was collected from DuckDuckgo images, there were many noises, and also misguided images. Cleaned and updated data using fastai ImageClassifierCleaner. A visual tool for cleaning data. I cleaned the data each time after training/finetuning, except for the last time which was the final iteration of the model. <br/>
 
 # Deployment
