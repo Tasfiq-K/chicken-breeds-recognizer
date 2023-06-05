@@ -1,4 +1,4 @@
-remote_theme: andrewbanchich/forty-jekyll-theme@master
+remote_theme: huangyz0918/moving
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
