@@ -1,4 +1,4 @@
-remote_theme: cotes2020/jekyll-theme-chirpy@master
+remote_theme: jekyll/minima@master
 
 # plugins: 
 # - jekyll-remote-theme
