@@ -1,4 +1,4 @@
-remote_theme: chrisrhymes/bulma-clean-theme@master
+remote_theme: Tasfiq-K/automatic-app-landing-page@master
 plugins: 
 - jekyll-remote-theme
 
