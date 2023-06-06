@@ -28,7 +28,9 @@ The types are following: <br/>
 **Data Collection**: Downloaded from DuckDuckgo using term name.
 **Dataloader**: Used fastai DataBlock API to set up the Dataloader.
 Data Augmentation: fastai provides default data augmentation which operates in GPU. <br/>
-Details can be found in **.ipynb** format in `notebooks/chicken_breed_recognizer_data_collections.ipynb` also in **.py** format in `src/chicken_breed_recognizer_data_collections.py`
+Details can be found in <br/>
+ **.ipynb** format `notebooks/chicken_breed_recognizer_data_collections.ipynb` <br/>
+**.py** format `src/chicken_breed_recognizer_data_collections.py` <br/>
 
 # Training and Data Cleaning
 **Training**: Fine-tuned a resnet34 model 3 times, for (10+10+5) epochs and got up to ~**94%** accuracy. <br/>
