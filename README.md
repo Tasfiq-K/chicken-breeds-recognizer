@@ -3,7 +3,7 @@ An image classification model from data collection (scraping chicken types), cle
 The model can classify 20 different types of chicken breeds <br/>
 The types are following: <br/>
 1. Austra White
-2. Black Sex Link beanie cap
+2. Black Sex Link
 3. Blue Laced Red Wyandotte
 4. Bresse
 5. Cherry Egger
