@@ -7,7 +7,7 @@ layout: page
 Can Classify 20 different types of Chicken Breeds <br/>
 The Types are: <br/>
 1. Austra White
-2. Black Sex Link beanie cap
+2. Black Sex Link
 3. Blue Laced Red Wyandotte
 4. Bresse
 5. Cherry Egger
